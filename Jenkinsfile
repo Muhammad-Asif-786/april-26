@@ -24,7 +24,7 @@ node {
             npm install
             npm run build
             sudo fuser -k 3000/tcp || true
-            npm run preview -- --host 0.0.0.0 --port 3000
-            """
+            npm run dev
+        """
     }
 }
