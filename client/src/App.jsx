@@ -14,7 +14,7 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>KSC-840</h1>
+          <h1>ArfaNaseem</h1>
         </div>
       </section>
     </>
